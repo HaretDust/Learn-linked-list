@@ -5,7 +5,6 @@
 #include <string.h>
 #include "queue.h"
 
-//查看更改
 char * s_gets( char * st, int n );
 
 int main()
